@@ -1,5 +1,5 @@
 # restBookAPI
-Nodejs, Express and MySQL Server
+JavaScript, Nodejs, Express and MySQL Server
 
 First Start : npm install
 
