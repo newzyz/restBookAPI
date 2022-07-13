@@ -21,7 +21,7 @@ Data Table in MySQL
 
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c5.PNG)
 
-/deleteBook
+/deleteBook/:id
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c6.PNG)
 
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c7.PNG)
