@@ -7,26 +7,26 @@ Running Node : npm run startmon
 
 <h1>Test API</h1>
 
-Data Table in MySQL
+<b>Table in MySQL<b/><br/>
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c1.PNG)
 
-/getAllBooks
+/getAllBooks<br/>
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c2.PNG)
 
-/getBook/:id
+/getBook/:id<br/>
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c3.PNG)
-
-/addBook
+<br/>
+/addBook<br/>
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c4.PNG)
-
+<br/>
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c5.PNG)
-
-/deleteBook/:id
+<br/>
+/deleteBook/:id<br/>
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c6.PNG)
-
+<br/>
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c7.PNG)
-
-/updateBook
+<br/>
+/updateBook<br/>
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c8.PNG)
-
+<br/>
 ![alt text](https://github.com/newzyz/restBookAPI/blob/main/image_for_readme/c9.PNG)
